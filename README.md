@@ -20,7 +20,7 @@ Indoor Positioning Systems (IPS) are crucial for determining the location of peo
 - `RandomForestResults.py`: Implementation of the Random Forest model for indoor positioning.
 - `KNNResults.py`: Implementation of the K-Nearest Neighbors (KNN) model for indoor positioning.
 - `SVMResults.py`: Implementation of the Support Vector Machine (SVM) model for indoor positioning.
-- `Indoor_Positioning.pdf`: Research paper detailing the implementation, methodology, results, and analysis of the indoor positioning system.
+- `MachineLearningApproachesforEfficientIndoorPositioningAComparativeAnalysis.pdf`: Research paper detailing the implementation, methodology, results, and analysis of the indoor positioning system.
 
 ## Methodology
 - **Data Processing**: The UJIIndoorLoc dataset contains Wi-Fi signal strengths, building IDs, floor numbers, and relative positions.
